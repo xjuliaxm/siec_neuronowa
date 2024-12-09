@@ -1,4 +1,4 @@
-![Zrzut ekranu 2024-12-09 223202](https://github.com/user-attachments/assets/2e8162a4-9cea-454b-8938-a185924d86ea)# siec_neuronowa
+# siec_neuronowa
 
 wynik dla 10 epoch
 ![Zrzut ekranu 2024-12-09 185755](https://github.com/user-attachments/assets/02378db9-5c95-42bc-a08f-70cc52c5ceac)
